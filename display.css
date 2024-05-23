@@ -1,0 +1,26 @@
+.button{
+    display: block;
+    padding: 8px 2px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 125px;
+    border: none;
+}
+
+.primary-button{
+    background-color: blue;
+}
+
+.danger-button{
+    background-color: red;
+}
+
+.mt-16{
+    margin-top: 16px;
+}
+
+.mb-16{
+    margin-bottom: 16px;
+}
